@@ -79,3 +79,5 @@ plt.show()
 ### Display the result of Hough transform
 <img width="200" height="288" alt="image" src="https://github.com/user-attachments/assets/d88f3f3a-1e1c-4488-8327-1803336672db" />
 
+## Result
+Thus the Edge Linking using Hough Transformm using python and OpenCV.
